@@ -1,0 +1,13 @@
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe.config
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.pdb
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.xml
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.vbprojResolveAssemblyReference.cache
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmMain.resources
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.Resources.resources
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.vbproj.GenerateResource.Cache
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.exe
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.xml
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.pdb
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmBasic.resources
+c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmMultiD.resources
