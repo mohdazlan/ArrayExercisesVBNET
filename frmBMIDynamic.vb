@@ -12,6 +12,11 @@
             DataGridViewStudents.Rows.Add(student)
         Next
 
+        Dim totalBMI As Double
+        For Each stud In students
+            totalBMI += Convert.ToDouble(stud(1))
+        Next
+        LabelAverageBMI.Text = $"The Average BMI of students {totalBMI / students.Count}"
     End Sub
 
     Private Sub ButtonAddStudent_Click(sender As Object, e As EventArgs) Handles ButtonAddStudent.Click

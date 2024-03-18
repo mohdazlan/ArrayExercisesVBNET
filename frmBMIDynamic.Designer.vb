@@ -23,7 +23,7 @@ Partial Class frmBMIDynamic
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.DataGridViewStudents = New System.Windows.Forms.DataGridView()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.LabelAverageBMI = New System.Windows.Forms.Label()
         Me.ButtonAddStudent = New System.Windows.Forms.Button()
         Me.TextBoxName = New System.Windows.Forms.TextBox()
         Me.TextBoxBMI = New System.Windows.Forms.TextBox()
@@ -40,14 +40,14 @@ Partial Class frmBMIDynamic
         Me.DataGridViewStudents.Size = New System.Drawing.Size(285, 150)
         Me.DataGridViewStudents.TabIndex = 0
         '
-        'Label1
+        'LabelAverageBMI
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 234)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(102, 13)
-        Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Average BMI Result"
+        Me.LabelAverageBMI.AutoSize = True
+        Me.LabelAverageBMI.Location = New System.Drawing.Point(12, 234)
+        Me.LabelAverageBMI.Name = "LabelAverageBMI"
+        Me.LabelAverageBMI.Size = New System.Drawing.Size(102, 13)
+        Me.LabelAverageBMI.TabIndex = 1
+        Me.LabelAverageBMI.Text = "Average BMI Result"
         '
         'ButtonAddStudent
         '
@@ -100,7 +100,7 @@ Partial Class frmBMIDynamic
         Me.Controls.Add(Me.TextBoxBMI)
         Me.Controls.Add(Me.TextBoxName)
         Me.Controls.Add(Me.ButtonAddStudent)
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.LabelAverageBMI)
         Me.Controls.Add(Me.DataGridViewStudents)
         Me.Name = "frmBMIDynamic"
         Me.Text = "frmBMIDynamic"
@@ -111,7 +111,7 @@ Partial Class frmBMIDynamic
     End Sub
 
     Friend WithEvents DataGridViewStudents As DataGridView
-    Friend WithEvents Label1 As Label
+    Friend WithEvents LabelAverageBMI As Label
     Friend WithEvents ButtonAddStudent As Button
     Friend WithEvents TextBoxName As TextBox
     Friend WithEvents TextBoxBMI As TextBox
