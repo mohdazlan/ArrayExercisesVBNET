@@ -11,3 +11,4 @@ c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercis
 c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.pdb
 c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmBasic.resources
 c:\users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmMultiD.resources
+C:\Users\azlan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.frmBMIDynamic.resources

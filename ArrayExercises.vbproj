@@ -78,6 +78,12 @@
     <Compile Include="frmBasic.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmBMIDynamic.Designer.vb">
+      <DependentUpon>frmBMIDynamic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBMIDynamic.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
     </Compile>
@@ -109,6 +115,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmBasic.resx">
       <DependentUpon>frmBasic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBMIDynamic.resx">
+      <DependentUpon>frmBMIDynamic.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
